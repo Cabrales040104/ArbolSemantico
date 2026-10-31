@@ -1,0 +1,9 @@
+.vs/
+bin/
+dist/
+obj/
+Makefile.qt
+.qmake.stash
+*.user
+*.suo
+*.vcxproj.user

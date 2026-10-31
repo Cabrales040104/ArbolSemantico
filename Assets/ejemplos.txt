@@ -1,0 +1,3 @@
+Si es de día, entonces voy a trabajar.
+Si llueve, entonces no voy a trabajar.
+Es de día.

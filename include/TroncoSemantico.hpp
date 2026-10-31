@@ -1,0 +1,3 @@
+padre
+hijos
+posición gráfica

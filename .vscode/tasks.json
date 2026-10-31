@@ -1,0 +1,23 @@
+{
+    "tasks": [
+        {
+            "type": "shell",
+            "label": "LogicaArbol: compilar y ejecutar",
+            "command": "C:\\msys64\\mingw64\\bin\\mingw32-make.exe",
+            "args": [],
+            "options": {
+                "cwd": "${workspaceFolder}",
+                "env": {
+                    "PATH": "C:\\msys64\\mingw64\\bin;${env:PATH}"
+                }
+            },
+            "problemMatcher": "$gcc",
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "detail": "Construye el proyecto Qt y ejecuta bin\\LogicaArbol.exe."
+        }
+    ],
+    "version": "2.0.0"
+}
